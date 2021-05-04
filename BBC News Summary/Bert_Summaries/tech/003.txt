@@ -1,0 +1,3 @@
+Microsoft seeking spyware trojan
+
+Microsoft is investigating a trojan program that attempts to switch off the firm's anti-spyware software. Microsoft said it did not believe the program was widespread and recommended users to use an anti-virus program. The program attempts to disable or delete Microsoft's anti-spyware tool and suppress warning messages given to users.

@@ -1,0 +1,3 @@
+Google's toolbar sparks concern
+
+Search engine firm Google has released a trial tool which is concerning some net users because it directs people to pre-selected commercial websites. The AutoLink feature comes with Google's latest toolbar and provides links in a webpage to Amazon.com if it finds a book's ISBN number on the site. In addition, the user can choose to disable the AutoLink feature entirely at any time." Mr Doctorow said the only objection would be if users were forced into using AutoLink or "tricked into using the service".

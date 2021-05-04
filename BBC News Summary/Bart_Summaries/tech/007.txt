@@ -1,0 +1,1 @@
+Microsoft releases bumper patches for flaws in Windows programs. If not updated, PC users could be vulnerable to viruses or other malicious attacks. Many of the flaws could be used by virus writers to take over computers remotely, install programs, change, and delete or see data.
